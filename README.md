@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/mrspcbr/mrspcbr/raw/main/0_C-cPP9D2MIyeexAT.gif" align="center" style="width: 80%" />
+<img src="https://github.com/mrspcbr/mrspcbr/raw/main/mrspcbr-animated.gif" align="center" style="width: 80%" />
 </div>  
   
 
