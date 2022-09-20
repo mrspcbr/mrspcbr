@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on <b>Solidity Projects & Web3</b>  
 - 🌱 I’m currently learning <b>Solidity and React</b>  
 - ❓ Ask me about anything related to Web, Crypto and related technologies  
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Hire Me: https://www.fiverr.com/mrspcbr 
   
 <br/>  
 
