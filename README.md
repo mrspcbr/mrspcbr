@@ -16,6 +16,8 @@
 
 - 🤖 SUSBOT - CA (https://t.me/CA_SusScanbot)
 - 💰 BeanGang.app (https://dappradar.com/binance-smart-chain/high-risk/beangang)
+- 🚀 PancakeSwap Liquidity Watcher (https://github.com/mrspcbr/pancakeswap-liquidity-bot)
+- 🔑 Crypto Wallet Bruteforcer (https://github.com/mrspcbr/crypto-wallet-bruteforce)
 
 <br/>
 
