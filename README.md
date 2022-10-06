@@ -5,13 +5,19 @@
 
 ### <div align="center">I'm <b>Mister Spacebar</b>, a full-time almost full-stack developer 👨‍💻 working remotely since 2014 🚀</div>  
   
-
 - 🔭 I’m currently working on <b>Solidity Projects & Web3</b>  
 - 🌱 I’m currently learning <b>Solidity and React</b>  
 - ❓ Ask me about anything related to Web, Crypto and related technologies  
 - ⚡ Hire Me: https://www.fiverr.com/mrspcbr 
   
 <br/>  
+
+## My Apps
+
+- 🤖 SUSBOT - CA (https://t.me/CA_SusScanbot)
+- 💰 BeanGang.app (https://dappradar.com/binance-smart-chain/high-risk/beangang)
+
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
