@@ -5,8 +5,8 @@
 
 ### <div align="center">I'm <b>Mister Spacebar</b>, a full-time almost full-stack developer 👨‍💻 working remotely since 2014 🚀</div>  
   
-- 🔭 I’m currently working on <b>Solidity Projects & Web3</b>  
-- 🌱 I’m currently learning <b>Solidity and React</b>  
+- 🔭 I’m currently working on <b>Dapp Projects & Bots</b>  
+- 🌱 I’m currently learning <b>Solidity, Web3 and React</b>  
 - ❓ Ask me about anything related to Web, Crypto and related technologies  
 - ⚡ Hire Me: https://www.fiverr.com/mrspcbr 
   
