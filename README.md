@@ -18,7 +18,7 @@
 - 💰 BeanGang.app (https://dappradar.com/binance-smart-chain/high-risk/beangang)
 - 🚀 PancakeSwap Liquidity Watcher (https://github.com/mrspcbr/pancakeswap-liquidity-bot)
 - 🔑 Crypto Wallet Bruteforcer (https://github.com/mrspcbr/crypto-wallet-bruteforce)
-- 🔑 Instant PrivateKey Check (https://mrspcbr.github.io/instant-privatekey-check/)
+- 💵 Instant PrivateKey Check (https://mrspcbr.github.io/instant-privatekey-check/)
 
 <br/>
 
