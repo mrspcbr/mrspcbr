@@ -3,22 +3,30 @@
 </div>  
   
 
-### <div align="left">I'm <b>Mister Spacebar</b>, a full-time almost full-stack developer 👨‍💻 working remotely since 2014 🚀</div>  
+# 👋 Hello there!
   
-- 🔭 I’m currently working on <b>Dapp Projects & Bots</b>  
-- 🌱 I’m currently learning <b>Solidity, Web3 and React</b>  
-- ❓ Ask me about anything related to Web, Crypto and related technologies  
-- ⚡ Hire Me: https://www.fiverr.com/mrspcbr 
+<p>I'm <strong>Mister Spacebar</strong>, a remote full-stack (almost 😬) developer. While I'm not ape-ing into projects, You can find me in my lounge <a href="https://t.me/spacebarlounge">Spacebar Lounge</a> on Telegram discussing about stuff to build and tokens that might moon. 
+
+I also build fun stuff along the way. Most of my work are published on Github and other platforms. You can find them below as well. If you're working on something, feel free to reach out for a collab. 
+
+You can also hire me for your next project: https://www.fiverr.com/mrspcbr</p> 
   
 <br/>  
 
 ## My Apps
-
-- 🤖 SUSBOT - CA (https://t.me/CA_SusScanbot)
-- 💰 BeanGang.app (https://dappradar.com/binance-smart-chain/high-risk/beangang)
-- 🚀 PancakeSwap Liquidity Watcher (https://github.com/mrspcbr/pancakeswap-liquidity-bot)
-- 🔑 Crypto Wallet Bruteforcer (https://github.com/mrspcbr/crypto-wallet-bruteforce)
-- 💵 Instant PrivateKey Check (https://mrspcbr.github.io/instant-privatekey-check/)
+<p>Below are Projects, Bots & Dapps built by me. Most of them are open-sourced on this Github. Feel free to contribute.</p>
+<p>
+<a href="https://t.me/CA_SusScanbot" target="_blank">
+<img src=https://shields.io/badge/BOT-SUSBOT--CA-DE0000?logo=telegram&style=for-the-badge alt=bot style="margin-bottom: 5px;" /></a>
+<a href="https://dappradar.com/binance-smart-chain/high-risk/beangang" target="_blank">
+<img src=https://shields.io/badge/DAPP-BeanGang-6CDE00?logo=binance&style=for-the-badge alt=dapp style="margin-bottom: 5px;" /></a>
+<a href="https://github.com/mrspcbr/pancakeswap-liquidity-bot" target="_blank">
+<img src=https://shields.io/badge/CLI-PancakeSwap--Liquidity--Bot-00ACDE?logo=github&style=for-the-badge alt=cli style="margin-bottom: 5px;" /></a>
+<a href="https://github.com/mrspcbr/crypto-wallet-bruteforce" target="_blank">
+<img src=https://shields.io/badge/CLI-Crypto--Wallet--Bruteforce-8D00DE?logo=github&style=for-the-badge alt=cli style="margin-bottom: 5px;" /></a>
+<a href="https://mrspcbr.github.io/instant-privatekey-check/" target="_blank">
+<img src=https://shields.io/badge/WEB-Instant--PrivateKey--Check-DE0068?logo=ethereum&style=for-the-badge alt=web style="margin-bottom: 5px;" /></a>
+</p>
 
 <br/>
 
@@ -71,6 +79,7 @@
 <br/>  
 
 ## Connect with Me  
+<p>If you're interested in collaborating with me on any project, you can reach me via any of the following socials:</p>
 <div align="left">
 <a href="https://github.com/mrspcbr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -107,9 +116,6 @@
     <img alt="mrpscbr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrspcbr&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4981F4&icon_color=F8D866&hide=Jupyter%20Notebook&border_color=4981F4"/>
     </p>
 </p>
-
-[![mrspcbr's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrspcbr&bg_color=151515&color=4981f4&line=4981f4&point=ffffff&area=true)](https://activity-graph.herokuapp.com/graph?username=mrpscbr)
-
 
 <br/>  
 
