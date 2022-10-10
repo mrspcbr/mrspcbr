@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://github.com/mrspcbr/mrspcbr/raw/main/mrspcbr-animated.gif" align="center" style="width: 50%" />
-</div>  
-  
-
 # 👋 Hello there!
   
 <p>I'm <strong>Mister Spacebar</strong>, a remote full-stack (almost 😬) developer. While I'm not ape-ing into projects, You can find me in my lounge <a href="https://t.me/spacebarlounge">Spacebar Lounge</a> on Telegram discussing about stuff to build and tokens that might moon. 
