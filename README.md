@@ -8,19 +8,18 @@ You can also hire me for your next project: https://www.fiverr.com/mrspcbr</p>
   
 <br/>  
 
-## My Apps
+## My Portfolio
 <p>Below are Projects, Bots & Dapps built by me. Most of them are open-sourced on this Github. Feel free to contribute.</p>
 <p>
-<a href="https://t.me/CA_SusScanbot" target="_blank">
-<img src=https://shields.io/badge/BOT-SUSBOT--CA-DE0000?logo=telegram&style=for-the-badge alt=bot style="margin-bottom: 5px;" /></a>
-<a href="https://dappradar.com/binance-smart-chain/high-risk/beangang" target="_blank">
-<img src=https://shields.io/badge/DAPP-BeanGang-6CDE00?logo=binance&style=for-the-badge alt=dapp style="margin-bottom: 5px;" /></a>
-<a href="https://github.com/mrspcbr/pancakeswap-liquidity-bot" target="_blank">
-<img src=https://shields.io/badge/CLI-PancakeSwap--Liquidity--Bot-00ACDE?logo=github&style=for-the-badge alt=cli style="margin-bottom: 5px;" /></a>
-<a href="https://github.com/mrspcbr/crypto-wallet-bruteforce" target="_blank">
-<img src=https://shields.io/badge/CLI-Crypto--Wallet--Bruteforce-8D00DE?logo=github&style=for-the-badge alt=cli style="margin-bottom: 5px;" /></a>
-<a href="https://mrspcbr.github.io/instant-privatekey-check/" target="_blank">
-<img src=https://shields.io/badge/WEB-Instant--PrivateKey--Check-DE0068?logo=ethereum&style=for-the-badge alt=web style="margin-bottom: 5px;" /></a>
+<li>https://developersunited.org (Website / Wordpress)</li>
+<li>https://developersunited.org/earnings (Dashboard Dapp / Wordpress)</li>
+<li>https://github.com/mrspcbr/du-whitepaper (Whitepaper Design)</li>
+<li>https://unitedsafeguard.app (Wordpress / Wordpress)</li>
+<li>https://t.me/CA_SusScanbot (Telegram Bot)</li>
+<li>https://dappradar.com/binance-smart-chain/high-risk/beangang (Dapp)</li>
+<li>https://github.com/mrspcbr/pancakeswap-liquidity-bot (Bot)</li>
+<li>https://github.com/mrspcbr/crypto-wallet-bruteforce (Bot)</li>
+<li>https://mrspcbr.github.io/instant-privatekey-check/ (Web Tool)</li>
 </p>
 
 <br/>
