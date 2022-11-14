@@ -13,6 +13,7 @@ You can also hire me for your next project: https://www.fiverr.com/mrspcbr</p>
 <p>
 <li>https://developersunited.org (Website / Wordpress)</li>
 <li>https://developersunited.org/earnings (Dashboard Dapp / Wordpress)</li>
+<li>https://developersunited.org/earnings(NFT Mint Dapp)</li>
 <li>https://github.com/mrspcbr/du-whitepaper (Whitepaper Design)</li>
 <li>https://unitedsafeguard.app (Wordpress / Wordpress)</li>
 <li>https://t.me/CA_SusScanbot (Telegram Bot)</li>
