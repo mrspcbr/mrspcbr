@@ -15,7 +15,8 @@ You can also hire me for your next project: https://www.fiverr.com/mrspcbr</p>
 <li>https://developersunited.org/earnings (Dashboard Dapp / Wordpress)</li>
 <li>https://developersunitedofficial.github.io/shibaiv2mint/ (NFT Mint Dapp)</li>
 <li>https://github.com/mrspcbr/du-whitepaper (Whitepaper Design)</li>
-<li>https://unitedsafeguard.app (Wordpress / Wordpress)</li>
+<li>https://unitedsafeguard.app (Website / Wordpress)</li>
+<li>https://pomqueen.website (Website / Wordpress)</li>
 <li>https://t.me/CA_SusScanbot (Telegram Bot)</li>
 <li>https://dappradar.com/binance-smart-chain/high-risk/beangang (Dapp)</li>
 <li>https://github.com/mrspcbr/pancakeswap-liquidity-bot (Bot)</li>
